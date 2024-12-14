@@ -1,0 +1,19 @@
+###########---Installation CMD---###########
+
+# To install next.js
+CMD - npx create-next-app@14
+
+# TO install Mongoose
+CMD nom i Mongoose
+
+# To install Zod.
+CMD - nom i zod
+Desc. - TypeScript-first schema validation with static type inference.
+
+*********************************************************************************
+###########---Installation CMD---###########
+*********************************************************************************
+
+
+
+
